@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-container {
+    margin: 40px;
+}
+
+.search-bar {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.next-button {
+    float: right;
+}
+
+.prev-button {
+    float: left;
+}
+
+.department-filter-container {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.department-drop-down {
+    margin-left: 20px;
+}
