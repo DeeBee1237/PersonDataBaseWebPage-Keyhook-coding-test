@@ -73,22 +73,9 @@ The form should allow you to add a new employee to the database, and then show t
 Add any validations to the backend that you think would be appropriate.
 Add a validation to the backend to check that an employee does with the same name does not already exist in that department. ( I know multiple people can have the same name, but this is just for testing purposes).
 
-### Things we will evaluate
-
-- Has the criteria been met.
-- What packages were used and how were they used.
-- Are queries optimised? ( No n+1 queries or useEffects firing sporadically)
-- Code style and commenting.
-- Use of Typescript types.
-- Can you discuss, rationalise and explain choices you have made.
-
 ### Links
 
 - [Graphiti](https://www.graphiti.dev/)
 - [Spraypaint.js](https://www.graphiti.dev/js)
 - [Tanstack Table](https://tanstack.com/table/v7)
 - [Tailwind.css](https://tailwindcss.com/)
-
-### Contact
-
-If you have any questions or if anything needs clarifying, please contact me at aaron.rama@keyhook.com
